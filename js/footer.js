@@ -1,4 +1,7 @@
 const footerContent = `<!-- Footer -->
+<br>
+<h2 class="w3-wide">#GPDMusic</h2>
+<br>
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
 	<a href="https://www.facebook.com/CwmamanMusicFestival/" target="_blank"><i class="fa-brands fa-facebook fa-2x"></i></a>
 	<a href="https://www.instagram.com/cwmaman_music_festival/" target="_blank"><i class="fa-brands fa-instagram fa-2x"></i></a>

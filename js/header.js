@@ -6,11 +6,6 @@ const headerContent = `			<div class="banner">
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="about.html">About GPD Music</a></li>
-			</ul>
-		</nav>
-		<br>
-		<nav>
-			<ul>
 				<li><a href="bandfinder.html">BandFinder</a></li>
 			</ul>
 		</nav>`;
