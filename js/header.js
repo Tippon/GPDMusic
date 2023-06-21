@@ -1,4 +1,5 @@
-const headerContent = `			<div class="banner">
+const headerContent = `<meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+			<div class="banner">
 				<a href="index.html"><img src="images/Cover.png" alt="GPD Music"></a>
 			</div>
 		<br>
